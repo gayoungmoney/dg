@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"last modified":"28.11.2023 11:41","permalink":"/Gayoungmoney Obsidian/Gayo Obsidian/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
+{"dg-home":true,"dg-publish":true,"last modified":"28.11.2023 13:12","permalink":"/Gayoungmoney Obsidian/Gayo Obsidian/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # Homepage
@@ -15,3 +15,5 @@ Các bạn mới tìm hiểu về obsidian thì xem cái này đầu tiên nhé 
 ## table of content
 cbnvb
 ghj
+tgyh
+tghjb
