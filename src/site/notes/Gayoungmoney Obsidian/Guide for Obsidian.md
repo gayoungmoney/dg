@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Gayoungmoney Obsidian/Guide for Obsidian/","noteIcon":""}
+{"modified":"2023-11-24T17:24:58+07:00","last modified":"28.11.2023 11:41","dg-publish":true,"cssclasses":["purpleRed"],"permalink":"/Gayoungmoney Obsidian/Guide for Obsidian/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # overview
