@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"last modified":"26.11.2023 16:12","permalink":"/gayoungmoney-obsidian/gayo-obsidian/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Gayoungmoney Obsidian/Gayo Obsidian/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 # Homepage
