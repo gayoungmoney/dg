@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"last modified":"28.11.2023 13:12","permalink":"/Gayoungmoney Obsidian/Gayo Obsidian/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
+{"dg-home":true,"dg-publish":true,"last modified":"28.11.2023 13:37","permalink":"/Gayoungmoney Obsidian/Gayo Obsidian/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # Homepage
@@ -17,3 +17,5 @@ cbnvb
 ghj
 tgyh
 tghjb
+
+publication centervdh
