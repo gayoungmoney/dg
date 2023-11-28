@@ -13,3 +13,5 @@ Các bạn mới tìm hiểu về obsidian thì xem cái này đầu tiên nhé 
 **Lưu ý**: mình dùng máy Mac nên các cài đặt trên đều dựa trên nền tảng macos nha
 
 ## table of content
+cbnvb
+ghj
